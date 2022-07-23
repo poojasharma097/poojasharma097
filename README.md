@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year student pursuing B. Tech in Computer Science and Engineering from Jaypee Institute of Information Technology.<br>Apart from that, I am a part of the Google TalentSprint Women Engineers Program and a mentee in Codess Cafe. <br>I am highly interested in web and game development along with artificial intelligence.<br><br>🔭 I’m currently working on my problem-solving skills.<br>🌱 I’m currently learning Data Structures and Algorithm.<br>📫 How to reach me **poojasharma09740@gmail.com**<br>⚡ Fun fact : National Girl Child Day and my birthday are on the same day.
+I am a second year student pursuing B. Tech in Computer Science and Engineering from Jaypee Institute of Information Technology.<br>Apart from that, I am a part of the Google TalentSprint Women Engineers Program and a mentee in Codess Cafe. <br>I am highly interested in web and game development along with artificial intelligence.<br><br>🔭 I’m currently working on my problem-solving skills.<br>🌱 I’m currently learning Data Structures and Algorithm.<br>⚡ Fun fact : National Girl Child Day and my birthday are on the same day.
 
 
 ## 🌐 Socials:
