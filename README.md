@@ -40,3 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-sharma-a80458222/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Poojasharma097)
 
+<!-- [![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=poojasharma097&theme=blue-green)](https://github.com/poojasharma097/github-readme-stats)
+[![Pooja's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojasharma097&theme=blue-green)](https://github.com/poojasharma097/github-readme-stats)
+[![Pooja's github streak](https://github-readme-streak-stats.herokuapp.com/?user=poojasharma097&theme=blue-green)](https://github.com/poojasharma097/github-readme-streak-stats) -->
+
