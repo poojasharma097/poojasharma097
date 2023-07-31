@@ -4,7 +4,8 @@
 * I love learning new skills and meeting new people. I am an excellent team player with effective communication and collaboration skills.
 * I like to solve problems and fix errors. I am a detail-oriented person and I keep my goals and tasks organized to maintain productivity.
 
-:boom: Fun Fact: National Girl Child day and my birthday are on the same day.
+:boom: Fun Fact: National Girl Child day and my birthday are on the same day. <br>
+:boom: Click [here](https://pooja-sharma-portfolio.netlify.app/) to have a look at my Portfolio.
 
 ## :computer: Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
