@@ -1,8 +1,5 @@
 # :dizzy: About Me
- I am a passionate and driven Junior pursuing B.Tech in Computer Science and Engineering from Jaypee Institute of Information Technology with a focus on expanding knowledge in software development, data structures, and algorithms. Apart from that, I am a part of the Google TalentSprint Women Engineers Program and a mentee at Codess Cafe. 
-* I am highly interested in MERN Stack Web Development.
-* I love learning new skills and meeting new people. I am an excellent team player with effective communication and collaboration skills.
-* I like to solve problems and fix errors. I am a detail-oriented person and I keep my goals and tasks organized to maintain productivity.
+ I am a final year student pursuing B.Tech in Computer Science and Engineering from Jaypee Institute of Information Technology with a focus on expanding knowledge in software development, data structures, and algorithms. I am highly interested in MERN Stack Web Development. I love learning new skills and meeting new people. 
 
 :boom: Fun Fact: National Girl Child day and my birthday are on the same day. <br>
 :boom: Click [here](https://pooja-sharma-personal-portfolio.netlify.app/) to have a look at my Portfolio.
